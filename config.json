@@ -1,0 +1,50 @@
+{
+    "googleSheetApiKey": "AIzaSyCyw6iaAuVhBF8vfj5feZ1lq7zB81iW1AA",
+    "sheetId": "1js7UftITJ89sLOeH2RAyjncpSL4XHW7ecbd49UL8wmA",
+    "sheetNames": [
+        "sheet1",
+        "sheet2",
+        "sheet3",
+        "sheet4"
+    ],
+    "firebaseConfig": {
+        "apiKey": "AIzaSyDjCJBj-w8ye9x0pJJCQZvV-AG_fXu0XW0",
+        "authDomain": "movixhubnetlify.firebaseapp.com",
+        "projectId": "movixhubnetlify",
+        "storageBucket": "movixhubnetlify.firebasestorage.app",
+        "messagingSenderId": "472248490186",
+        "appId": "1:472248490186:web:9e833b5fe6538fdbe5bc33"
+    },
+    "categoryDetails": {
+        "all": {
+            "name": "Home",
+            "icon": "https://cdn-icons-png.flaticon.com/128/11431/11431718.png",
+            "dataKey": "all"
+        },
+        "isMovie": {
+            "name": "Movies",
+            "icon": "https://cdn-icons-png.flaticon.com/128/15557/15557755.png",
+            "dataKey": "isMovie"
+        },
+        "isSeries": {
+            "name": "Series",
+            "icon": "https://cdn-icons-png.flaticon.com/128/6553/6553523.png",
+            "dataKey": "isSeries"
+        },
+        "isAnime": {
+            "name": "Anime",
+            "icon": "https://cdn-icons-png.flaticon.com/128/16498/16498727.png",
+            "dataKey": "isAnime"
+        },
+        "isAnimation": {
+            "name": "Animation",
+            "icon": "https://cdn-icons-png.flaticon.com/128/8483/8483811.png",
+            "dataKey": "isAnimation"
+        },
+        "isLiveTV": {
+            "name": "Live TV",
+            "icon": "https://cdn-icons-png.flaticon.com/128/7022/7022069.png",
+            "dataKey": "isLiveTV"
+        }
+    }
+}
