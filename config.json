@@ -13,7 +13,8 @@
         "projectId": "movixhubnetlify",
         "storageBucket": "movixhubnetlify.firebasestorage.app",
         "messagingSenderId": "472248490186",
-        "appId": "1:472248490186:web:9e833b5fe6538fdbe5bc33"
+        "appId": "1:472248490186:web:9e833b5fe6538fdbe5bc33",
+        "databaseURL": "https://movixhubnetlify-default-rtdb.asia-southeast1.firebasedatabase.app/"
     },
     "categoryDetails": {
         "all": {
